@@ -3,6 +3,7 @@
 ## Integrantes:
 
 - Nicolas Carrasco
+- Leonardo Daza
 - Alan Jimenez
 - Carlos Paredes
 
