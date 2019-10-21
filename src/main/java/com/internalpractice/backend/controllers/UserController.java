@@ -40,7 +40,7 @@ public class UserController {
 
     @PutMapping
     @ResponseStatus(HttpStatus.ACCEPTED)
-    public void updateUser(@PathVariable User user){
+    public void updateUser(@RequestBody User user){
         userService.storeUser(user);
     }
 
