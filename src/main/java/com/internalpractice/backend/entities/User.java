@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import java.io.Serializable;
 
 @Entity
-    public class User  implements Serializable {
+public class User  implements Serializable {
         @Id
         @GeneratedValue(strategy = GenerationType.IDENTITY)
         private Long id;
@@ -137,4 +137,4 @@ import java.io.Serializable;
         public void setPosition(String position) {
             this.position = position;
         }
-    }
+}
