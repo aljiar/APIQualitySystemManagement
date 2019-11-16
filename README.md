@@ -18,3 +18,8 @@
 - Que cada responsable de las actividades, completen las actividades a su cargo y adjunten un respaldo.
 - Hacer seguimiento al cumplimiento de los planes de acción.
 - Sacar reportes y estadísticas.
+## Setup del ambiente de desarrollo:
+- Descargar XAMPP
+[ https://www.apachefriends.org/es/download.html ]
+- Crear una base de datos con el nombre *qualitysystemmanagment*
+- Crear un usuario con el nombre *internalPractice* y contraseña *interna2019*
